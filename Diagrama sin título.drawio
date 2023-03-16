@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T14:35:48.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="iS4GtUhUSTbopaidY4J3" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-16T20:13:27.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="NUiOx0O3x2iIHzydlmAZ" version="21.0.6" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -32,13 +32,13 @@
         <mxCell id="0VyVYXyV5IGO3JdP-Ufd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0VyVYXyV5IGO3JdP-Ufd-1" target="0VyVYXyV5IGO3JdP-Ufd-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0VyVYXyV5IGO3JdP-Ufd-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.- Hacer Paginas Webs, enfocadas a marketing, para coger correos y vender&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.- Contenido de Blog automatizado&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+        <mxCell id="0VyVYXyV5IGO3JdP-Ufd-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.- Hacer Paginas Webs, enfocadas a marketing, para coger correos y vender&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.- Contenido personalizados de Blog automatizado&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
           <mxGeometry x="175" y="380" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="0VyVYXyV5IGO3JdP-Ufd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0VyVYXyV5IGO3JdP-Ufd-4" target="0VyVYXyV5IGO3JdP-Ufd-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0VyVYXyV5IGO3JdP-Ufd-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.- posicionamiento en todas las redes Sociales&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.- Subir contenido Automatizado a todas las redes sociales&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+        <mxCell id="0VyVYXyV5IGO3JdP-Ufd-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.- posicionamiento en todas las redes Sociales&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.- Subir contenido personalizado y Automatizado a todas las redes sociales&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
           <mxGeometry x="360" y="380" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="0VyVYXyV5IGO3JdP-Ufd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0VyVYXyV5IGO3JdP-Ufd-5" target="0VyVYXyV5IGO3JdP-Ufd-7">
@@ -65,14 +65,17 @@
             <mxPoint x="580" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0VyVYXyV5IGO3JdP-Ufd-19" value="&lt;div style=&quot;&quot;&gt;Le queda una semana y media para estar terminado y poder añadir, cualquier Web&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
-          <mxGeometry x="170" y="580" width="150" height="150" as="geometry" />
+        <mxCell id="0VyVYXyV5IGO3JdP-Ufd-19" value="&lt;div style=&quot;&quot;&gt;Le queda dos semanas para estar terminado y poder añadir contenido a cualquier Web&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
+          <mxGeometry x="175" y="580" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="0VyVYXyV5IGO3JdP-Ufd-20" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Falta aprender posicionamiento&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Encontrado un servicio que puede automatizar la subida de contenido a las redes sociales:&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;https://www.hootsuite.com/es&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
           <mxGeometry x="360" y="580" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="0VyVYXyV5IGO3JdP-Ufd-21" value="&lt;div style=&quot;&quot;&gt;hay que aprender email marketing&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
-          <mxGeometry x="560" y="580" width="150" height="150" as="geometry" />
+        <mxCell id="0VyVYXyV5IGO3JdP-Ufd-21" value="&lt;div style=&quot;&quot;&gt;hay que aprender email marketing, porque mucho del contenido se puede automatizar con IAs&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
+          <mxGeometry x="555" y="580" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0VyVYXyV5IGO3JdP-Ufd-27" value="&lt;h1&gt;Dudas&lt;/h1&gt;&lt;p&gt;1.- Es mejor una estrategia de contenidos o hacer campañas con anuncios en redes sociales&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.- Este proyecto, tiene sentido para hacerle marketing a las empresas o no&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#BD7000;fillColor=#000000;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="790" y="270" width="230" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
