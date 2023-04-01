@@ -1,35 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T09:02:37.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="58kUT8f2UxwW3oXX9Oa8" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-01T14:45:24.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0UarihXt1B48roaOnzgu" version="21.1.2" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="1400" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1167" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YSoAW5_WRrQaYXD2AETo-1" value="empresas" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="YSoAW5_WRrQaYXD2AETo-1" value="empresas" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="600" y="200" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="YSoAW5_WRrQaYXD2AETo-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;persona que quiere tener autoridad en las redes&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YSoAW5_WRrQaYXD2AETo-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;persona que quiere tener autoridad en las redes&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="200" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="YSoAW5_WRrQaYXD2AETo-3" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;marketing profesional&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YSoAW5_WRrQaYXD2AETo-3" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;marketing profesional&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="200" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="YSoAW5_WRrQaYXD2AETo-4" value="creadores de contenidos normales" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="YSoAW5_WRrQaYXD2AETo-4" value="creadores de contenidos normales" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="990" y="200" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="YSoAW5_WRrQaYXD2AETo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSoAW5_WRrQaYXD2AETo-6" target="YSoAW5_WRrQaYXD2AETo-2">
+        <mxCell id="YSoAW5_WRrQaYXD2AETo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="YSoAW5_WRrQaYXD2AETo-6" target="YSoAW5_WRrQaYXD2AETo-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YSoAW5_WRrQaYXD2AETo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSoAW5_WRrQaYXD2AETo-6" target="YSoAW5_WRrQaYXD2AETo-4">
+        <mxCell id="YSoAW5_WRrQaYXD2AETo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="YSoAW5_WRrQaYXD2AETo-6" target="YSoAW5_WRrQaYXD2AETo-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YSoAW5_WRrQaYXD2AETo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSoAW5_WRrQaYXD2AETo-6" target="YSoAW5_WRrQaYXD2AETo-12">
+        <mxCell id="YSoAW5_WRrQaYXD2AETo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="YSoAW5_WRrQaYXD2AETo-6" target="YSoAW5_WRrQaYXD2AETo-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YSoAW5_WRrQaYXD2AETo-6" value="Producto que vendemos" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="YSoAW5_WRrQaYXD2AETo-6" value="Producto que vendemos" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="650" y="570" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="YSoAW5_WRrQaYXD2AETo-12" value="usuarios de la Beta" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="YSoAW5_WRrQaYXD2AETo-12" value="usuarios de la Beta" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1170" y="200" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_JRNmh5qnorwL11xkBjx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_JRNmh5qnorwL11xkBjx-1" target="_JRNmh5qnorwL11xkBjx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_JRNmh5qnorwL11xkBjx-1" value="En mi pagina" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="152.5" y="582.5" width="175" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="_JRNmh5qnorwL11xkBjx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_JRNmh5qnorwL11xkBjx-2" target="_JRNmh5qnorwL11xkBjx-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="775" />
+              <mxPoint x="420" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_JRNmh5qnorwL11xkBjx-2" value="Hacer un metodo desde un controller para crear articulos desde categorias" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="720" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_JRNmh5qnorwL11xkBjx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_JRNmh5qnorwL11xkBjx-3" target="_JRNmh5qnorwL11xkBjx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_JRNmh5qnorwL11xkBjx-3" value="articulos hecho en github&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="152.5" y="420" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_JRNmh5qnorwL11xkBjx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_JRNmh5qnorwL11xkBjx-4" target="_JRNmh5qnorwL11xkBjx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_JRNmh5qnorwL11xkBjx-4" value="Subirlos directamente a la pagina&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="890" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_JRNmh5qnorwL11xkBjx-5" value="Crear Cron para crear 30 articulos para mi proyecto, y subir 2 articulos, cada dia, segun la fecha de creación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1010" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_JRNmh5qnorwL11xkBjx-6" value="Hacer gestion de creado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
