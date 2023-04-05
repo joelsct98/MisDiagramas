@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T20:53:30.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="LfRyRdkOmrXe59scrR0Z" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T21:13:18.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3hY-b7ALI5gPfiTE_qC_" version="21.1.2" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -178,7 +178,7 @@
         <mxCell id="XKk2bicyEZhXiGaG2Zve-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="XKk2bicyEZhXiGaG2Zve-4" target="XKk2bicyEZhXiGaG2Zve-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XKk2bicyEZhXiGaG2Zve-7" value="&lt;div style=&quot;&quot;&gt;1.- generar imagenes por midjourney y leonardo, y intentar hacer desde la imagen, una secuencia e intentar hacer movimiento&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2.- acoplar imagenes y ver el resultado&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+        <mxCell id="XKk2bicyEZhXiGaG2Zve-7" value="&lt;div style=&quot;&quot;&gt;1.- generar imagenes por midjourney y leonardo, y intentar hacer desde la imagen, una secuencia e intentar hacer movimiento&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2.- acoplar imagenes con algun software y ver el resultado&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
           <mxGeometry x="50" y="1730" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="XKk2bicyEZhXiGaG2Zve-8" value="&lt;div style=&quot;&quot;&gt;1.- Teniendo en cuenta, que liberan la api de ChatGPT4, puede leer imagenes, hacer validaciones de imagenes y ver que se parezcan a todas las demas&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2.- si no se parecen, volver a generar las imagenes con midjourney o leonardo&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3.- Con todos los videos buenos y malos, ir entrenando a la IA con todos lo resultados, hasta que dea resutados buenos&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
@@ -225,6 +225,15 @@
         </mxCell>
         <mxCell id="XKk2bicyEZhXiGaG2Zve-25" value="&lt;div style=&quot;&quot;&gt;Crear una &lt;b&gt;IA&lt;/b&gt; que pueda aprender del usuario y pueda generar contenido, lo mas parecido a como lo haria la persona&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
           <mxGeometry x="640" y="1240" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XKk2bicyEZhXiGaG2Zve-26" value="3 semanas a 1 mes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1875" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XKk2bicyEZhXiGaG2Zve-27" value="3-6 meses" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="2150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XKk2bicyEZhXiGaG2Zve-28" value="1 mes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1875" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
