@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T20:47:32.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="cluh44NRI7XxUxbvgBSO" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T20:51:26.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9ARQbz1zQSUbPTLG8Hws" version="21.1.2" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -144,8 +144,8 @@
         <mxCell id="uN3F-sd9gV85lb1dvhrI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uN3F-sd9gV85lb1dvhrI-41" target="uN3F-sd9gV85lb1dvhrI-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uN3F-sd9gV85lb1dvhrI-41" value="Cuarta Fase" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="705" y="910" width="120" height="80" as="geometry" />
+        <mxCell id="uN3F-sd9gV85lb1dvhrI-41" value="Quinta Fase" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="825" y="910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uN3F-sd9gV85lb1dvhrI-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="uN3F-sd9gV85lb1dvhrI-41" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -157,10 +157,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uN3F-sd9gV85lb1dvhrI-43" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.- Montar una &lt;b&gt;agencia de marketing Digital&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
-          <mxGeometry x="690" y="1040" width="150" height="150" as="geometry" />
+          <mxGeometry x="810" y="1040" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="uN3F-sd9gV85lb1dvhrI-46" value="&lt;div style=&quot;&quot;&gt;Montar el negocio enfocado a Email marketing, estrategia de contenido e impulsar todo con el software&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" parent="1" vertex="1">
-          <mxGeometry x="690" y="1240" width="150" height="150" as="geometry" />
+          <mxGeometry x="810" y="1240" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="XKk2bicyEZhXiGaG2Zve-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.451;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XKk2bicyEZhXiGaG2Zve-4" target="XKk2bicyEZhXiGaG2Zve-7">
           <mxGeometry relative="1" as="geometry">
@@ -208,8 +208,23 @@
         <mxCell id="XKk2bicyEZhXiGaG2Zve-18" value="Teoría:&lt;br&gt;&lt;ul&gt;&lt;li&gt;video -&amp;gt; fotogramas&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;fotogramas -&amp;gt; imagenes, generados por IA, midjourney, leonardo&lt;/li&gt;&lt;li style=&quot;&quot;&gt;ChatGPT4 puede entender imagenes, que hay en ellas y describirlas&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Entrenar una IA nueva, que pueda, con validacion de ChatGPT4 y fotogramas creados por midjorney o Leonardo, para que pueda hacerlo todo, enfocado a videos&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="1460" width="930" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="XKk2bicyEZhXiGaG2Zve-20" value="&lt;b&gt;Posibles Problemas:&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ol&gt;&lt;li&gt;Cuanto tardaran en sacar la &lt;b&gt;API&lt;/b&gt; de &lt;b&gt;CHATGPT4&lt;/b&gt; que pueda validar imagenes&lt;/li&gt;&lt;li&gt;&lt;b&gt;IA&lt;/b&gt; nueva, realmente no se cuanto tardaria en hacer en dar resultados palpables (Investigar mas sobre entrenamiento de IAs)&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1940" width="730" height="80" as="geometry" />
+        <mxCell id="XKk2bicyEZhXiGaG2Zve-20" value="&lt;b&gt;Posibles Problemas:&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ol&gt;&lt;li&gt;Cuanto tardaran en sacar la &lt;b&gt;API&lt;/b&gt; de &lt;b&gt;CHATGPT4&lt;/b&gt; que pueda validar imagenes&lt;/li&gt;&lt;li&gt;&lt;b&gt;IA&lt;/b&gt; nueva, realmente no se cuanto tardaria en hacer en dar resultados palpables (Investigar mas sobre entrenamiento de IAs)&lt;/li&gt;&lt;li&gt;Las grandes empresas ya estan desarrollando esto seguro, y no lo estan sacando quizas porque se lo quieren quedar para ellos o existen problemas que aun no hemos enfrentado&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1930" width="1020" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XKk2bicyEZhXiGaG2Zve-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XKk2bicyEZhXiGaG2Zve-22" target="XKk2bicyEZhXiGaG2Zve-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKk2bicyEZhXiGaG2Zve-22" value="Cuarta Fase" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="655" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XKk2bicyEZhXiGaG2Zve-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XKk2bicyEZhXiGaG2Zve-24" target="XKk2bicyEZhXiGaG2Zve-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKk2bicyEZhXiGaG2Zve-24" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.- Personalizar contenido, hacerlo mas humano&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1040" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XKk2bicyEZhXiGaG2Zve-25" value="&lt;div style=&quot;&quot;&gt;Crear una &lt;b&gt;IA&lt;/b&gt; que pueda aprender del usuario y pueda generar contenido, lo mas parecido a como lo haria la persona&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1240" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
